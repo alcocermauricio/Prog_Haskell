@@ -1,0 +1,1 @@
+media p e n = (p+e+n)/3
